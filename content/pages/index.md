@@ -9,7 +9,7 @@ sections:
     subtitle: Nosso aplicativo conecta as pessoas com o oceano.
     actions:
       - type: Button
-        label: Get Started
+        label: Baixar o APp
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
