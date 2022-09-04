@@ -13,12 +13,6 @@
                 "label": "Home",
                 "url": "/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
             }
         ],
         "secondaryLinks": [
