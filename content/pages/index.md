@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Aruanã
-    subtitle: 'One platform, one community.'
+    subtitle: Nosso aplicativo conecta as pessoas com o oceano.
     actions:
       - type: Button
         label: Get Started
